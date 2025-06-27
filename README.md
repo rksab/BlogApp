@@ -22,7 +22,7 @@ A RESTful API backend for a blogging platform built with **Node.js**, **Express*
 ## 🌐 Live Demo
 
 🔗 Backend is live at:  
-[https://blogapp-tuft.onrender.com](https://blogapp-tuft.onrender.com)
+[https://blogservice-54k2.onrender.com/](https://blogservice-54k2.onrender.com/)
 
 This is a full-stack deployment — the **React frontend is built and served** from the `/dist` folder inside the Node.js backend. The server connects to a live **MongoDB Atlas** database.
 
